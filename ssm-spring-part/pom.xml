@@ -12,9 +12,11 @@
         <module>spring-ioc-xml-01</module>
         <module>spring-ioc-xml-practice-02</module>
         <module>spring-ioc-annotation-03</module>
-        <module>spring-ioc-annotation-parctice-04</module>
+        <module>spring-ioc-annotation-practice-04</module>
         <module>spring-ioc-java-05</module>
         <module>spring-ioc-java-practice-06</module>
+        <module>spring-aop-annotation-07</module>
+        <module>spring-tx-annotation-08</module>
     </modules>
 
 
@@ -69,6 +71,20 @@
             <version>6.0.6</version>
             <scope>test</scope>
         </dependency>
+
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-aspects</artifactId>
+            <version>6.0.6</version>
+        </dependency>
+
+        <!-- 声明式事务依赖-->
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-tx</artifactId>
+            <version>6.0.6</version>
+        </dependency>
+
     </dependencies>
 
 </project>
