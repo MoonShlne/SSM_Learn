@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "https://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.myself.mapper.EmployeeMapper">
+    <update id="deleteEmployee">
+        delete from t_emp where emp_id =#{id};
+    </update>
+
+    <select id="queryById" resultType="java.lang.String">
+        select emp_name from t_emp where emp_id =#{id};
+    </select>
+
+    <select id="queryByIdSalary" resultType="java.lang.Double">
+        select emp_salary from t_emp where emp_id =#{id};
+    </select>
+
+    <select id="queryEmployeeById" resultType="com.myself.pojo.Employee">
+        select * from
+        t_emp where emp_id = #{id};
+    </select>
+    <select id="selectEmpNameAndMaxSalary" resultType="map">
+        select
+        emp_name 姓名,
+        emp_salary 工资,
+        (select AVG(emp_salary) from t_emp) 平均工资
+        FROM t_emp WHERE emp_salary=(
+        SELECT MAX(emp_salary) From t_emp)
+        limit 1;
+    </select>
+<!--    返回值是list 直接填泛型，而不是list-->
+    <select id="queryAll" resultType="com.myself.pojo.Employee" >
+    select * from t_emp ;
+    </select>
+<!--主键回显
+useGeneratedKeys 开启主键自增长
+ketColumn 主键列
+keyProperty 实力类属性
+-->
+    <insert id="insertEmp" useGeneratedKeys="true" keyColumn="emp_id" keyProperty="empId" >
+        insert into t_emp(emp_name,emp_salary) values(#{empName},#{empSalary});
+    </insert>
+</mapper>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "https://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.myself.mapper.EmployeeMapper">
+    <select id="queryById" resultType="com.myself.pojo.Employee">
+        select emp_id empId,emp_name empName, emp_salary empSalary from
+        t_emp where emp_id = ${empId}
+    </select>
+
+    <insert id="insertUser">
+        insert into t_emp values(Default,#{empName} ,#{empSalary});
+    </insert>
+
+
+    <select id="queryBySalary" resultType="com.myself.pojo.Employee">
+        select emp_id empId ,emp_name empName ,emp_salary empSalary from
+        t_emp where emp_salary=#{salary111}
+    </select>
+
+    <select id="queryByNameAndSalary" resultType="com.myself.pojo.Employee">
+        select emp_id empId ,emp_name empName ,emp_salary empSalary from
+        t_emp where emp_salary=#{2} and emp_name=#{1}
+    </select>
+
+
+</mapper>
