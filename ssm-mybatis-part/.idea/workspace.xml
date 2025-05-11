@@ -4,56 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ace6b87f-5cb0-43e0-98c3-021a5a6d3f2d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/mybaits-base-crud-04/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybaits-base-crud-04/src/main/java/com/myself/mapper/UserMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybaits-base-crud-04/src/main/java/com/myself/pojo/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybaits-base-crud-04/src/main/resources/mappers/UserMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybaits-base-crud-04/src/main/resources/mybatis-config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybaits-base-crud-04/src/test/java/com/myself/UserCurdTest/CrudTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-base-param-input-02/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-base-param-input-02/src/main/java/com/myself/mapper/EmployeeMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-base-param-input-02/src/main/java/com/myself/pojo/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-base-param-input-02/src/main/resources/mappers/mapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-base-param-input-02/src/main/resources/mybatis-config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-base-param-input-02/src/test/java/com/myself/test/TestMyBatis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-base-quick-01/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-base-quick-01/src/main/java/com/myself/mapper/EmployeeMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-base-quick-01/src/main/java/com/myself/pojo/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-base-quick-01/src/main/resources/mappers/EmployeeMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-base-quick-01/src/main/resources/mybatis-config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-base-quick-01/src/test/java/com/myself/test/MybatisTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-base-result-out-03/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-base-result-out-03/src/main/java/com/myself/mapper/EmployeeMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-base-result-out-03/src/main/java/com/myself/mapper/TeacherMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-base-result-out-03/src/main/java/com/myself/pojo/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-base-result-out-03/src/main/java/com/myself/pojo/Teacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-base-result-out-03/src/main/resources/mappers/EmployeeMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-base-result-out-03/src/main/resources/mappers/TeacherMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-base-result-out-03/src/main/resources/mybatis-config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-base-result-out-03/src/test/java/com/myself/testReturnType/testType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-high-dynsql-06/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-high-dynsql-06/src/main/java/com/myself/mapper/EmployeeMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-high-dynsql-06/src/main/java/com/myself/pojo/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-high-dynsql-06/src/main/resources/mappers/EmployeeMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-high-dynsql-06/src/main/resources/mybatis-config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-high-dynsql-06/src/test/java/com/myself/test/MybatisTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-high-multitable-05/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-high-multitable-05/src/main/java/com/myself/mapper/CustomerMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-high-multitable-05/src/main/java/com/myself/mapper/OrderMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-high-multitable-05/src/main/java/com/myself/pojo/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-high-multitable-05/src/main/java/com/myself/pojo/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-high-multitable-05/src/main/resources/mappers/CustomerMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-high-multitable-05/src/main/resources/mappers/OrderMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-high-multitable-05/src/main/resources/mybatis-config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-high-multitable-05/src/test/java/com/myself/test/MyBatisTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-other-extend-07/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-other-extend-07/src/main/java/com/myself/mapper/EmployeeMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-other-extend-07/src/main/java/com/myself/pojo/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-other-extend-07/src/main/resources/mappers/EmployeeMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-other-extend-07/src/main/resources/mybatis-config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-other-extend-07/src/test/java/com/myself/test/MybatisTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="ace6b87f-5cb0-43e0-98c3-021a5a6d3f2d" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -263,7 +214,7 @@
       <workItem from="1746337158446" duration="13759000" />
       <workItem from="1746421074692" duration="13765000" />
       <workItem from="1746505528732" duration="13651000" />
-      <workItem from="1746593611289" duration="668000" />
+      <workItem from="1746593611289" duration="1644000" />
     </task>
     <servers />
   </component>

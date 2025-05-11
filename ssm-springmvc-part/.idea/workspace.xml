@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="springmvc-high-other-05:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="95dd6236-82b8-4bd8-a24f-ba9a0625cb58" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/springmvc-base-input-02/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springmvc-base-output-03/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springmvc-base-quick-01/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springmvc-base-restful-04/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springmvc-high-other-05/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ssm-spring-part/spring-ioc-annotation-parctice-04/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ssm-spring-part/spring-ioc-annotation-practice-04/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ssm-spring-part/spring-ioc-annotation-parctice-04/src/main/java/com/myself/controller/XxxController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ssm-spring-part/spring-ioc-annotation-practice-04/src/main/java/com/myself/controller/XxxController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ssm-spring-part/spring-ioc-annotation-parctice-04/src/main/java/com/myself/dao/XxxDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ssm-spring-part/spring-ioc-annotation-practice-04/src/main/java/com/myself/dao/XxxDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ssm-spring-part/spring-ioc-annotation-parctice-04/src/main/java/com/myself/dao/XxxDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ssm-spring-part/spring-ioc-annotation-practice-04/src/main/java/com/myself/dao/XxxDaoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ssm-spring-part/spring-ioc-annotation-parctice-04/src/main/java/com/myself/pojo/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ssm-spring-part/spring-ioc-annotation-practice-04/src/main/java/com/myself/pojo/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ssm-spring-part/spring-ioc-annotation-parctice-04/src/main/java/com/myself/service/XxxService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ssm-spring-part/spring-ioc-annotation-practice-04/src/main/java/com/myself/service/XxxService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ssm-spring-part/spring-ioc-annotation-parctice-04/src/main/java/com/myself/service/XxxServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ssm-spring-part/spring-ioc-annotation-practice-04/src/main/java/com/myself/service/XxxServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ssm-spring-part/spring-ioc-annotation-parctice-04/src/main/resources/jdbc.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../ssm-spring-part/spring-ioc-annotation-practice-04/src/main/resources/jdbc.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ssm-spring-part/spring-ioc-annotation-parctice-04/src/main/resources/spring-01.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ssm-spring-part/spring-ioc-annotation-practice-04/src/main/resources/spring-01.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ssm-spring-part/spring-ioc-annotation-parctice-04/src/test/java/com/myself/test/TestFindAll.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ssm-spring-part/spring-ioc-annotation-practice-04/src/test/java/com/myself/test/TestFindAll.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../个人笔记.md" beforeDir="false" afterPath="$PROJECT_DIR$/../个人笔记.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jsp File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="customMavenHome" value="C:\Program Files\apache-maven-3.6.3" />
+        <option name="mavenHomeTypeForPersistence" value="CUSTOM" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2wksQdPFwRo2EREzicI19ICjfeQ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Tomcat Server.Tomcat 11.0.5.executor": "Run",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/polar/OneDrive - frtouch/project/A_learn/SSM/ssm-springmvc-part/springmvc-high-other-05/src/main/java/com/myself",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.19792865",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\polar\OneDrive - frtouch\project\A_learn\SSM\ssm-springmvc-part\springmvc-high-other-05\src\main\java\com\myself" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\polar\OneDrive - frtouch\project\A_learn\SSM\ssm-springmvc-part\springmvc-base-output-03\src\main\webapp\images" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 11.0.5" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 11.0.5" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="springmvc-high-other-05:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="9f6b17c9-6fd7-4933-b37a-f82f9ba25268" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="5169" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="springmvc-high-other-05:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="95dd6236-82b8-4bd8-a24f-ba9a0625cb58" name="Changes" comment="" />
+      <created>1746596893356</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1746596893356</updated>
+      <workItem from="1746596894431" duration="1291000" />
+      <workItem from="1746598402893" duration="172000" />
+      <workItem from="1746598583616" duration="404000" />
+      <workItem from="1746598997229" duration="14994000" />
+      <workItem from="1746619503095" duration="413000" />
+      <workItem from="1746619926268" duration="651000" />
+      <workItem from="1746620597192" duration="168000" />
+      <workItem from="1746620781610" duration="1838000" />
+      <workItem from="1746687088711" duration="3778000" />
+      <workItem from="1746704851867" duration="294000" />
+      <workItem from="1746705163072" duration="3251000" />
+      <workItem from="1746708877319" duration="357000" />
+      <workItem from="1746768931893" duration="15124000" />
+      <workItem from="1746852379399" duration="15125000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
