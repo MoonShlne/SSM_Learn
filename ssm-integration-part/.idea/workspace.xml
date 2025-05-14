@@ -2,14 +2,17 @@
 <project version="4">
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
-      <artifact name="springmvc-high-other-05:war exploded" />
+      <artifact name="ssm-integration-shcedule-02:war exploded" />
     </artifacts-to-build>
   </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="95dd6236-82b8-4bd8-a24f-ba9a0625cb58" name="Changes" comment="" />
+    <list default="true" id="20ef128a-9325-4cec-b47a-a1440d80333c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/ssm-integration-01/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ssm-integration-shcedule-02/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,8 +21,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Jsp File" />
         <option value="Class" />
+        <option value="Interface" />
+        <option value="mapper" />
       </list>
     </option>
   </component>
@@ -42,54 +46,67 @@
     </option>
   </component>
   <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 8
+  &quot;associatedIndex&quot;: 0
 }</component>
-  <component name="ProjectId" id="2wksQdPFwRo2EREzicI19ICjfeQ" />
+  <component name="ProjectId" id="2ww4ghyI7UM1b6OWCm6yPFN9lq6" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;Tomcat Server.Tomcat 11.0.5.executor&quot;: &quot;Run&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/polar/OneDrive - frtouch/project/A_learn/SSM/ssm-springmvc-part/springmvc-high-other-05/src/main/java/com/myself&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.19792865&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Tomcat Server.Tomcat 11.0.5.executor": "Debug",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/polar/OneDrive - frtouch/project/A_learn/SSM/ssm-integration-part/ssm-integration-shcedule-02/src/main/resources",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15039062",
+    "project.structure.side.proportion": "0.19792865",
+    "settings.editor.selected.configurable": "MavenSettings",
+    "ts.external.directory.path": "C:\\workingtools\\IntelliJ IDEA 2024.1.4\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\polar\OneDrive - frtouch\project\A_learn\SSM\ssm-springmvc-part\springmvc-high-other-05\src\main\java\com\myself" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.myself.service" />
+      <recent name="com.myself.service.impl" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\polar\OneDrive - frtouch\project\A_learn\SSM\ssm-springmvc-part\springmvc-base-output-03\src\main\webapp\images" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\polar\OneDrive - frtouch\project\A_learn\SSM\ssm-integration-part\ssm-integration-shcedule-02\src\main\resources" />
+      <recent name="C:\Users\polar\OneDrive - frtouch\project\A_learn\SSM\ssm-integration-part" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.myself.pojo" />
+      <recent name="com.myself.conifg" />
     </key>
   </component>
   <component name="RunManager">
     <configuration name="Tomcat 11.0.5" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 11.0.5" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/ssm" />
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
-        <artifact name="springmvc-high-other-05:war exploded">
+        <artifact name="ssm-integration-shcedule-02:war exploded">
           <settings>
-            <option name="CONTEXT_PATH" value="/" />
+            <option name="CONTEXT_PATH" value="/ssm" />
           </settings>
         </artifact>
       </deployment>
       <server-settings>
-        <option name="BASE_DIRECTORY_NAME" value="9f6b17c9-6fd7-4933-b37a-f82f9ba25268" />
+        <option name="BASE_DIRECTORY_NAME" value="7e2ad85a-6465-4c20-831a-e6ee70ccc550" />
       </server-settings>
       <predefined_log_file enabled="true" id="Tomcat" />
       <predefined_log_file enabled="true" id="Tomcat Catalina" />
@@ -97,7 +114,7 @@
       <predefined_log_file id="Tomcat Host Manager" />
       <predefined_log_file id="Tomcat Localhost Access" />
       <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="5169" />
+        <option name="DEBUG_PORT" value="8506" />
       </RunnerSettings>
       <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
         <option name="USE_ENV_VARIABLES" value="true" />
@@ -162,7 +179,7 @@
       <method v="2">
         <option name="Make" enabled="true" />
         <option name="BuildArtifacts" enabled="true">
-          <artifact name="springmvc-high-other-05:war exploded" />
+          <artifact name="ssm-integration-shcedule-02:war exploded" />
         </option>
       </method>
     </configuration>
@@ -178,34 +195,20 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="95dd6236-82b8-4bd8-a24f-ba9a0625cb58" name="Changes" comment="" />
-      <created>1746596893356</created>
+      <changelist id="20ef128a-9325-4cec-b47a-a1440d80333c" name="Changes" comment="" />
+      <created>1746939416905</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1746596893356</updated>
-      <workItem from="1746596894431" duration="1291000" />
-      <workItem from="1746598402893" duration="172000" />
-      <workItem from="1746598583616" duration="404000" />
-      <workItem from="1746598997229" duration="14994000" />
-      <workItem from="1746619503095" duration="413000" />
-      <workItem from="1746619926268" duration="651000" />
-      <workItem from="1746620597192" duration="168000" />
-      <workItem from="1746620781610" duration="1838000" />
-      <workItem from="1746687088711" duration="3778000" />
-      <workItem from="1746704851867" duration="294000" />
-      <workItem from="1746705163072" duration="3251000" />
-      <workItem from="1746708877319" duration="357000" />
-      <workItem from="1746768931893" duration="15124000" />
-      <workItem from="1746852379399" duration="15125000" />
-      <workItem from="1746939204528" duration="209000" />
+      <updated>1746939416905</updated>
+      <workItem from="1746939418101" duration="20102000" />
+      <workItem from="1746967683983" duration="918000" />
+      <workItem from="1747110461991" duration="3446000" />
+      <workItem from="1747137330479" duration="3147000" />
+      <workItem from="1747199829965" duration="4236000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="XSLT-Support.FileAssociations.UIState">
-    <expand />
-    <select />
   </component>
 </project>

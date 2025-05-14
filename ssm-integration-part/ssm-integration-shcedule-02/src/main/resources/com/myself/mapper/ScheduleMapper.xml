@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "https://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.myself.mapper.ScheduleMapper">
+    <select id="queryPage"
+            resultType="com.myself.pojo.Schedule">
+        select * from schedule
+    </select>
+
+    <delete id="deleteById">
+        delete from schedule where id = #{id}
+    </delete>
+
+
+    <insert id="addSchedule" >
+        insert into schedule(title,completed) values (#{title},#{completed})
+    </insert>
+
+    <update id="changeSchedule" >
+        update schedule
+        set title = #{title}, completed = #{completed}
+        where id = #{id}
+    </update>
+</mapper>
