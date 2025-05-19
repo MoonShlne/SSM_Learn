@@ -6,12 +6,12 @@
       <list>
         <option value="$PROJECT_DIR$/springboot-base-quick-01/pom.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-base-quick-01/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-base-application-02/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-base-springmvc-03/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-base-druid-04/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-base-mybatis-05/pom.xml" />
       </list>
-    </option>
-    <option name="ignoredFiles">
-      <set>
-        <option value="$PROJECT_DIR$/springboot-base-quick-01/pom.xml" />
-      </set>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="17.0.2" project-jdk-type="JavaSDK">

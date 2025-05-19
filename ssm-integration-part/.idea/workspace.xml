@@ -10,9 +10,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="20ef128a-9325-4cec-b47a-a1440d80333c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../springboot-part/springboot-base-quick-01/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ssm-integration-shcedule-02/src/main/java/com/myself/conifg/WebMvcJavaConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/ssm-integration-shcedule-02/src/main/java/com/myself/conifg/WebMvcJavaConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../个人笔记.md" beforeDir="false" afterPath="$PROJECT_DIR$/../个人笔记.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-part/spring-base-application-02/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-part/spring-base-quick-01/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +58,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "Tomcat Server.Tomcat 11.0.5.executor": "Debug",
+    "Tomcat Server.Tomcat 11.0.5.executor": "Run",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/polar/OneDrive - frtouch/project/A_learn/SSM/ssm-integration-part",
@@ -208,6 +207,7 @@
       <workItem from="1747199829965" duration="6089000" />
       <workItem from="1747210413344" duration="628000" />
       <workItem from="1747212179250" duration="2000" />
+      <workItem from="1747297482548" duration="25000" />
     </task>
     <servers />
   </component>

@@ -1,0 +1,17 @@
+server:
+  address: localhost
+  port: 80
+  servlet:
+    context-path: /haha
+
+user:
+  userinfo:
+    name: haha
+    age: 16
+    hobbies:
+      - football
+      - basketball
+      - baseball
+spring:
+  profiles:
+    active: age,name
