@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8d5c24c0-1863-497c-894d-912f4cd0ea5c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/spring-base-application-02/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-base-druid-04/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-base-mybatis-05/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-base-quick-01/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-base-springmvc-03/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../个人笔记.md" beforeDir="false" afterPath="$PROJECT_DIR$/../个人笔记.md" afterDir="false" />
-    </list>
+    <list default="true" id="8d5c24c0-1863-497c-894d-912f4cd0ea5c" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,42 +39,42 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Maven.spring-base-mybatis-05 [clean].executor": "Run",
-    "Maven.spring-base-mybatis-05 [compile].executor": "Run",
-    "Maven.spring-base-mybatis-05 [package].executor": "Run",
-    "RequestMappingsPanelOrder0": "0",
-    "RequestMappingsPanelOrder1": "1",
-    "RequestMappingsPanelWidth0": "75",
-    "RequestMappingsPanelWidth1": "75",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "Spring Boot.Main (1).executor": "Run",
-    "Spring Boot.Main (2).executor": "Run",
-    "Spring Boot.Main (3).executor": "Run",
-    "Spring Boot.Main (4).executor": "Run",
-    "Spring Boot.Main.executor": "Run",
-    "git-widget-placeholder": "master",
-    "jdk.selected.JAVA_MODULE": "17.0.2",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/polar/OneDrive - frtouch/project/A_learn/SSM/springboot-part/spring-base-application-02/src/main/resources",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15039062",
-    "project.structure.side.proportion": "0.19792865",
-    "settings.editor.selected.configurable": "http.proxy",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Maven.spring-base-mybatis-05 [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.spring-base-mybatis-05 [compile].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.spring-base-mybatis-05 [package].executor&quot;: &quot;Run&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;Spring Boot.Main (1).executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.Main (2).executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.Main (3).executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.Main (4).executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.Main.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17.0.2&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/polar/OneDrive - frtouch/project/A_learn/SSM/springboot-part/spring-base-application-02/src/main/resources&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15039062&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.19792865&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;http.proxy&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "DatabaseDriversLRU": [
-      "mysql"
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\polar\OneDrive - frtouch\project\A_learn\SSM\springboot-part\spring-base-application-02\src\main\resources" />
@@ -185,6 +178,7 @@
       <workItem from="1747370809243" duration="3398000" />
       <workItem from="1747374617248" duration="3732000" />
       <workItem from="1747384259700" duration="11463000" />
+      <workItem from="1747634595630" duration="441000" />
     </task>
     <servers />
   </component>

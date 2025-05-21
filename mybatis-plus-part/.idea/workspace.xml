@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="57db2877-1e3e-46dc-9b81-1ad063be89b2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/mybatis-curd-mapepr-02/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-plus-base-quick-01/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybayis-plus-mybatisx-03/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../个人笔记.md" beforeDir="false" afterPath="$PROJECT_DIR$/../个人笔记.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="mapper" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="customMavenHome" value="C:\Program Files\apache-maven-3.6.3" />
+        <option name="mavenHomeTypeForPersistence" value="CUSTOM" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2xIoeDICI7FPnz71J3fwMq5YC5k" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.LogicDeletedTest.test.executor": "Run",
+    "JUnit.LogicDeletedTest.testSelect.executor": "Run",
+    "JUnit.MybatisPlusTest.test (1).executor": "Run",
+    "JUnit.MybatisPlusTest.test.executor": "Run",
+    "JUnit.MybatisPlusTest.testDelete.executor": "Run",
+    "JUnit.MybatisPlusTest.testPage.executor": "Run",
+    "JUnit.MybatisPlusTest.testSelfPage.executor": "Run",
+    "JUnit.MybatisUpdateTest.test.executor": "Run",
+    "JUnit.QueryWrapperTest.test.executor": "Run",
+    "JUnit.QueryWrapperTest.testQuery.executor": "Run",
+    "JUnit.QueryWrapperTest.testSort.executor": "Run",
+    "JUnit.SyscTest.test.executor": "Run",
+    "JUnit.TestQuick.test.executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Spring Boot.Main.executor": "Run",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/polar/OneDrive - frtouch/project/A_learn/SSM/mybatis-plus-part/mybatis-curd-mapepr-02/src/main/java/com/myself",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15039062",
+    "project.structure.side.proportion": "0.19792865",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\polar\OneDrive - frtouch\project\A_learn\SSM\mybatis-plus-part\mybatis-curd-mapepr-02\src\main\java\com\myself" />
+      <recent name="C:\Users\polar\OneDrive - frtouch\project\A_learn\SSM\mybatis-plus-part\mybatis-curd-mapepr-02\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.myself" />
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.TestQuick.test">
+    <configuration name="LogicDeletedTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mybatis-curd-mapepr-02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.myself.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.myself.test" />
+      <option name="MAIN_CLASS_NAME" value="com.myself.test.LogicDeletedTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LogicDeletedTest.testSelect" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mybatis-curd-mapepr-02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.myself.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.myself.test" />
+      <option name="MAIN_CLASS_NAME" value="com.myself.test.LogicDeletedTest" />
+      <option name="METHOD_NAME" value="testSelect" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QueryWrapperTest.testQuery" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mybatis-curd-mapepr-02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.myself.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.myself.test" />
+      <option name="MAIN_CLASS_NAME" value="com.myself.test.QueryWrapperTest" />
+      <option name="METHOD_NAME" value="testQuery" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SyscTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mybatis-curd-mapepr-02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.myself.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.myself.test" />
+      <option name="MAIN_CLASS_NAME" value="com.myself.test.SyscTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestQuick.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mybatis-curd-mapepr-02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.myself.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.myself.test" />
+      <option name="MAIN_CLASS_NAME" value="com.myself.test.TestQuick" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="mybatis-plus-base-quick-01" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.myself.Main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="mybatis-curd-mapepr-02" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.myself.Main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="mybatis-plus-base-quick-01" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.myself.Main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.myself.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestQuick.test" />
+        <item itemvalue="JUnit.SyscTest.test" />
+        <item itemvalue="JUnit.LogicDeletedTest.testSelect" />
+        <item itemvalue="JUnit.LogicDeletedTest.test" />
+        <item itemvalue="JUnit.QueryWrapperTest.testQuery" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="57db2877-1e3e-46dc-9b81-1ad063be89b2" name="Changes" comment="" />
+      <created>1747635042995</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1747635042995</updated>
+      <workItem from="1747635044096" duration="1546000" />
+      <workItem from="1747636638620" duration="3951000" />
+      <workItem from="1747649352791" duration="9654000" />
+      <workItem from="1747732132094" duration="4813000" />
+      <workItem from="1747804394317" duration="9628000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="org.yaml.snakeyaml.error.YAMLException" package="org.yaml.snakeyaml.error" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
